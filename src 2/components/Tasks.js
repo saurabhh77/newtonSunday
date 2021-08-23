@@ -3,7 +3,7 @@ import DayPickerInput from 'react-day-picker/DayPickerInput';
 
 import 'react-day-picker/lib/style.css';
 import dateFnsFormat from "date-fns/format"
-import { Modifiers } from 'jest-matcher-utils/node_modules/chalk';
+//import { Modifiers } from 'jest-matcher-utils/node_modules/chalk';
 import isAfter from 'date-fns/isAfter';
 import isBefore from 'date-fns/isBefore';
 import addDays from 'date-fns/addDays';
